@@ -1,0 +1,29 @@
+What is Python
+	Language + Interpreter
+How Python Run's program
+	History of programming languages
+	Compilation - byte code generation
+	.pyc generation
+	__pycache__
+	source change/version change
+	PVM - runtime engine of python
+How to run Python Programs
+	Interactive Prompt + File
+	system path
+	code directories
+	comments
+	double click
+	baisc idle
+Why Interactive Prompt
+	 >>> / ...
+
+	Testing
+	Experimenting
+Pycharm
+	Intro and how to work around this
+Resources
+	github*
+	python 3.6*
+	pycharm*
+	anaconda
+	tutor mailing list
