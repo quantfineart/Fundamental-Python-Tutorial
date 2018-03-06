@@ -1,19 +1,2 @@
-Python first complies your source code in to byte code.
-Byte code runs faster than text statements in your python file
-Byte code is stored in a file .pyc, if python has write access to your machine
-In Python 3.2 and later byte code is stored in __pycache__ directory. File name aslo has the python version which created the byte code.
-When you run the program second time, python directly loads the .pyc file and skip the compilation if:
-Source code is not changed since the last compilation time
-Python version is the same with which the byte code file was created.
-************************
-PyCharm is a complete IDE from JetBrains
-PyCharm has a commercial (paid) and community(free) variant. 
-Besides Windows or Mac OS you can also install PyCharm on Linux Desktop
-Installer can be downloaded from https://www.jetbrains.com/pycharm/download/
-<img>
-Double click on the installer and follow the instructions to complete the installation
-Once installed you can find PyCharm under Start Menu -> All Programs -> Jet Brains -> PyCharm
-**************************
-Python Official documentation is a great source @ https://www.python.org/doc/
-
-Python Tutor Mailing Lists @ http://www.python.org/mailman/listinfo/tutor
+Byte code is created and destroyed in memory if python does not have write permission on your os
+Byte code is only created and stored for modules that are imported not for files which are run directly. 
