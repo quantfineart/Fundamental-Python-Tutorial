@@ -1,0 +1,2 @@
+Byte code is created and destroyed in memory if python does not have write permission on your os
+Byte code is only created and stored for modules that are imported not for files which are run directly. 
