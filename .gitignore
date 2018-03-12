@@ -2,4 +2,4 @@
 .xml
 .pptx
 /Presentation/stagingarea/*.*
-./idea
+.idea/
