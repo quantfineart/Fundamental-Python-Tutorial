@@ -1,9 +1,0 @@
-c = int(input("Enter the Constant"))
-x = int(input("Enter the xaxis"))
-y = int(input("Enter the yaxis"))
-
-m = (x+y)/c
-
-
-
-print("the slope is %f" % (m) )
